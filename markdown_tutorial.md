@@ -42,6 +42,6 @@ Ordered
 
 ## IMAGES
 
-![Cami and Andrew and Catfish](https://www.morleylab.com/uploads/1/1/8/9/118948011/p1000313_orig.jpg)
+![Cami and Andrew and Catfish](https://upload.wikimedia.org/wikipedia/commons/9/94/Ameiurus_melas_by_Duane_Raver.png)
 
 Format: \![Alt text]\(url\)
