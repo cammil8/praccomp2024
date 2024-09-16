@@ -42,6 +42,6 @@ Ordered
 
 ## IMAGES
 
-![Cami and Andrew and Catfish] (https://www.morleylab.com/uploads/1/1/8/9/118948011/p1000313_orig.jpg)
+![Cami and Andrew and Catfish](https://www.morleylab.com/uploads/1/1/8/9/118948011/p1000313_orig.jpg)
 
-Format: \![Alt text](url)
+Format: \![Alt text]\(url\)
